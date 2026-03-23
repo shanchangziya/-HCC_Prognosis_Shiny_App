@@ -1,0 +1,30 @@
+# R data files
+*.Rdata
+*.RData
+*.rdata
+
+# Large data files (if any get added later)
+data/*.Rdata
+data/*.rdata
+data/*.RData
+data/*.csv
+models/*.Rdata
+models/*.rdata
+models/*.RData
+
+# R session files
+.Rhistory
+.RData
+.Rproj.user
+
+# Temporary files
+*~
+*.swp
+*.swo
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
